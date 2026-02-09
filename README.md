@@ -8,6 +8,8 @@ The `.nb` files in this repository were run in [Mathematica](https://www.wolfram
 
 ## Permissions
 
-Copyright (c) 2025 Raphaël Scherrer (open source license will be added upon publication). This code comes with no guarantee whatsoever.
+Copyright (c) 2024-2026 Raphaël Scherrer. 
+
+This code is licensed under the MIT license. See [license file](../LICENSE.txt) for details. This code comes with no guarantee whatsoever.
 
 
