@@ -10,6 +10,6 @@ The `.nb` files in this repository were run in [Mathematica](https://www.wolfram
 
 Copyright (c) 2024-2026 Raphaël Scherrer. 
 
-This code is licensed under the MIT license. See [license file](../LICENSE.txt) for details. This code comes with no guarantee whatsoever.
+This code is licensed under the MIT license. See [license file](LICENSE.txt) for details. This code comes with no guarantee whatsoever.
 
 
